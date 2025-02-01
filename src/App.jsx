@@ -12,8 +12,8 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [isAdding, setIsAdding] = useState(false);
 
-  const contractAddress = "0x29435702fFaE5465f753748b0d3c639a04068768";
-
+  const contractAddress = "0x490b9c89BBB55CA3309608C97dEcdd05f239befC";
+  // 0x490b9c89BBB55CA3309608C97dEcdd05f239befC
   // Get contract instance with error handling
   const getContract = async () => {
     try {
