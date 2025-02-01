@@ -1,4 +1,8 @@
-# React + Vite
+# Simple task dapp
+
+
+# Contract addres
+0x490b9c89BBB55CA3309608C97dEcdd05f239befC
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
