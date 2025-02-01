@@ -14,6 +14,8 @@ function App() {
 
   const contractAddress = "0x490b9c89BBB55CA3309608C97dEcdd05f239befC";
   // 0x490b9c89BBB55CA3309608C97dEcdd05f239befC
+
+  
   // Get contract instance with error handling
   const getContract = async () => {
     try {
